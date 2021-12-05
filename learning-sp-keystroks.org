@@ -1,0 +1,36 @@
+* Going from one window to another
+
+SPC w w
+
+* Rotate windows
+
+SPC w r
+
+* Rotate windows backward
+
+SPC w R
+
+* Go to the subheading of the tree
+
+, s k
+
+* Insert a line break
+
+SPC i J
+
+* Go back and forth between two windows
+
+SPC w TAB
+
+* Find out key binding
+
+SPC ?
+
+* Major mode leader key
+
+, == SPC m
+
+* Surround a word with quote marks
+
+ysiw"
+
